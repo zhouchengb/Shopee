@@ -1,0 +1,9 @@
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\bin\Release\Shopee.exe
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\bin\Release\Shopee.pdb
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\bin\Release\Newtonsoft.Json.dll
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\bin\Release\ShopeeSDK.dll
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\bin\Release\ShopeeSDK.pdb
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\obj\Release\Shopee.csprojResolveAssemblyReference.cache
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\obj\Release\Shopee.exe
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\obj\Release\Shopee.pdb
+c:\users\zhouchengb\documents\visual studio 2013\Projects\Shopee\Shopee\bin\Release\Shopee.exe.config

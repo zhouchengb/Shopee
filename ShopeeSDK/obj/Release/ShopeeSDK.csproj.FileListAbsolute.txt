@@ -1,0 +1,5 @@
+c:\Users\zhouchengb\documents\visual studio 2013\Projects\Shopee\ShopeeSDK\bin\Release\ShopeeSDK.dll
+c:\Users\zhouchengb\documents\visual studio 2013\Projects\Shopee\ShopeeSDK\bin\Release\ShopeeSDK.pdb
+c:\Users\zhouchengb\documents\visual studio 2013\Projects\Shopee\ShopeeSDK\bin\Release\Newtonsoft.Json.dll
+c:\Users\zhouchengb\documents\visual studio 2013\Projects\Shopee\ShopeeSDK\obj\Release\ShopeeSDK.dll
+c:\Users\zhouchengb\documents\visual studio 2013\Projects\Shopee\ShopeeSDK\obj\Release\ShopeeSDK.pdb
